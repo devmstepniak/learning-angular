@@ -1,2 +1,2 @@
 # learning-angular
-Just simple project - my introduction to Angular
+Just my attempt to create first Angular project.
